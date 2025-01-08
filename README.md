@@ -1,5 +1,6 @@
 # create entorno virtual 
 virtualenv env
+
 /env/Scripts activate
 
 # dependencias
