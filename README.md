@@ -5,6 +5,7 @@ virtualenv env
 
 # dependencias
 pip install poetry
+
 pip install "gymnasium[classic-control]"
 
 # run el test_gym
