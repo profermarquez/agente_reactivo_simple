@@ -1,7 +1,7 @@
 # create entorno virtual 
-virtualenv env
+/virtualenv env
 
-/env/Scripts activate
+/env/Scripts/activate.bat
 
 # dependencias
 pip install poetry
